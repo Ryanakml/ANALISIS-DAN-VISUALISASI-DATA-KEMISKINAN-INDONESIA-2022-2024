@@ -1,0 +1,79 @@
+Provinsi,Tingkat - I,Tingkat - II,Tingkat - III,Tingkat - IV,Tingkat - V,Tingkat - VI,Jumlah,Status
+Prov. D.K.I. Jakarta,584,34,23,24,15,15,695,Negeri
+Prov. Jawa Barat,3633,498,231,205,265,248,5080,Negeri
+Prov. Jawa Tengah,1538,182,102,102,160,82,2166,Negeri
+Prov. D.I. Yogyakarta,31,2,2,3,3,2,43,Negeri
+Prov. Jawa Timur,1597,206,186,172,216,202,2579,Negeri
+Prov. Aceh,521,106,75,34,56,54,846,Negeri
+Prov. Sumatera Utara,1806,414,278,298,352,361,3509,Negeri
+Prov. Sumatera Barat,371,88,51,77,127,67,781,Negeri
+Prov. Riau,509,133,88,86,173,107,1096,Negeri
+Prov. Jambi,436,93,52,62,76,50,769,Negeri
+Prov. Sumatera Selatan,973,153,181,124,240,167,1838,Negeri
+Prov. Lampung,417,60,55,41,78,59,710,Negeri
+Prov. Kalimantan Barat,536,131,87,130,180,138,1202,Negeri
+Prov. Kalimantan Tengah,300,56,43,50,116,67,632,Negeri
+Prov. Kalimantan Selatan,239,45,25,43,86,54,492,Negeri
+Prov. Kalimantan Timur,283,74,39,47,95,49,587,Negeri
+Prov. Sulawesi Utara,113,45,24,19,46,26,273,Negeri
+Prov. Sulawesi Tengah,443,75,75,88,182,103,966,Negeri
+Prov. Sulawesi Selatan,736,178,121,97,216,182,1530,Negeri
+Prov. Sulawesi Tenggara,341,108,77,60,105,57,748,Negeri
+Prov. Maluku,323,73,54,98,96,72,716,Negeri
+Prov. Bali,64,20,8,15,36,11,154,Negeri
+Prov. Nusa Tenggara Barat,609,107,75,89,100,109,1089,Negeri
+Prov. Nusa Tenggara Timur,828,203,124,127,238,157,1677,Negeri
+Prov. Papua,89,65,40,39,64,97,394,Negeri
+Prov. Bengkulu,202,22,17,28,51,27,347,Negeri
+Prov. Maluku Utara,219,67,67,77,71,66,567,Negeri
+Prov. Banten,1115,137,74,82,80,96,1584,Negeri
+Prov. Kepulauan Bangka Belitung,110,31,39,54,60,19,313,Negeri
+Prov. Gorontalo,102,47,48,74,134,38,443,Negeri
+Prov. Kepulauan Riau,214,23,11,15,10,8,281,Negeri
+Prov. Papua Barat,83,40,33,43,45,57,301,Negeri
+Prov. Sulawesi Barat,220,59,25,39,66,34,443,Negeri
+Prov. Kalimantan Utara,91,11,20,16,17,14,169,Negeri
+Luar Negeri,19,17,11,3,16,15,81,Negeri
+Prov. Papua Tengah,90,58,39,37,100,146,470,Negeri
+Prov. Papua Selatan,113,89,78,87,117,96,580,Negeri
+Prov. Papua Pegunungan,190,78,93,51,186,110,708,Negeri
+Prov. Papua Barat Daya,67,38,27,14,43,33,222,Negeri
+Prov. D.K.I. Jakarta,98,17,25,10,21,3,174,Swasta
+Prov. Jawa Barat,383,87,38,33,37,17,595,Swasta
+Prov. Jawa Tengah,138,26,19,22,16,12,233,Swasta
+Prov. D.I. Yogyakarta,26,1,3,0,1,1,32,Swasta
+Prov. Jawa Timur,326,115,81,85,90,51,748,Swasta
+Prov. Aceh,40,8,5,2,4,0,59,Swasta
+Prov. Sumatera Utara,445,142,76,71,83,64,881,Swasta
+Prov. Sumatera Barat,32,15,5,9,7,9,77,Swasta
+Prov. Riau,178,34,21,18,28,13,292,Swasta
+Prov. Jambi,46,7,3,5,4,1,66,Swasta
+Prov. Sumatera Selatan,74,8,16,21,13,6,138,Swasta
+Prov. Lampung,56,30,4,12,5,16,123,Swasta
+Prov. Kalimantan Barat,71,15,11,4,12,9,122,Swasta
+Prov. Kalimantan Tengah,12,10,2,3,7,9,43,Swasta
+Prov. Kalimantan Selatan,19,1,3,5,7,5,40,Swasta
+Prov. Kalimantan Timur,56,12,5,1,4,4,82,Swasta
+Prov. Sulawesi Utara,95,13,14,4,22,14,162,Swasta
+Prov. Sulawesi Tengah,32,8,9,3,10,5,67,Swasta
+Prov. Sulawesi Selatan,34,13,12,6,15,3,83,Swasta
+Prov. Sulawesi Tenggara,5,28,1,0,1,1,36,Swasta
+Prov. Maluku,108,49,43,40,68,52,360,Swasta
+Prov. Bali,9,6,1,4,3,2,25,Swasta
+Prov. Nusa Tenggara Barat,56,40,15,11,20,4,146,Swasta
+Prov. Nusa Tenggara Timur,526,138,71,95,144,120,1094,Swasta
+Prov. Papua,68,32,26,47,41,43,257,Swasta
+Prov. Bengkulu,20,11,2,3,5,2,43,Swasta
+Prov. Maluku Utara,19,11,4,4,13,12,63,Swasta
+Prov. Banten,119,24,21,9,17,5,195,Swasta
+Prov. Kepulauan Bangka Belitung,10,1,2,2,4,0,19,Swasta
+Prov. Gorontalo,10,1,0,1,0,3,15,Swasta
+Prov. Kepulauan Riau,68,9,9,4,11,3,104,Swasta
+Prov. Papua Barat,40,22,17,24,57,13,173,Swasta
+Prov. Sulawesi Barat,16,29,6,5,9,3,68,Swasta
+Prov. Kalimantan Utara,15,2,0,0,2,0,19,Swasta
+Luar Negeri,3,1,1,0,0,3,8,Swasta
+Prov. Papua Tengah,217,119,147,34,20,99,636,Swasta
+Prov. Papua Selatan,107,28,39,24,85,73,356,Swasta
+Prov. Papua Pegunungan,78,33,14,9,42,44,220,Swasta
+Prov. Papua Barat Daya,24,10,16,11,28,23,112,Swasta
